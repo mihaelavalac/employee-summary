@@ -1,0 +1,10 @@
+body {
+  margin:0px;
+}
+.navbar {
+  overflow: hidden;
+  background-color: rgb(156, 84, 84);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
