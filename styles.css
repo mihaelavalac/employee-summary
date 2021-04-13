@@ -1,4 +1,5 @@
 body, html {
+  background-image: URL("img/background.jpg");
   margin:0px;
 }
 .navbar {
@@ -16,4 +17,11 @@ footer {
   background-color:rgb(156, 84, 84);;
   color: white;
   text-align: center;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: rgb(236, 117, 19);
 }
