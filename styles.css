@@ -1,5 +1,6 @@
-html { 
+body { 
   background: url(img/background.jpg) no-repeat center center fixed; 
+  width: 100vw;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -21,7 +22,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:rgb(156, 84, 84);;
+  background-color:rgb(231, 195, 195);;
   color: white;
   text-align: center;
 }
