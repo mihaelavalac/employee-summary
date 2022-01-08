@@ -1,5 +1,5 @@
 body {
-  background: url(img/background.jpg) no-repeat center center fixed;
+  background: url(./img/background.jpg) no-repeat center center fixed;
   width: 100vw;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -21,23 +21,23 @@ h1 {
   font-size: xx-large;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-family: sans;
-  color: rgb(231, 195, 195);
+  color:rgb(117, 182, 252);
 }
 footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgb(231, 195, 195);
-  color: white;
+  background-color: rgb(117, 182, 252);
+  color: rgb(255, 255, 255);
   text-align: center;
 }
 footer, a {
   text-decoration: none;
-  color: white;
+  color: rgb(249, 246, 246);
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-family: sans;
 }
 a:hover {
-  color: rgb(236, 164, 9);
+  color: rgb(255, 234, 5);
 }
