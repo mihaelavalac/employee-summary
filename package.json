@@ -1,0 +1,25 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "#Description This application help businesses to manage their employee information. The manager/leader can add and remove different employee from the data base. Each person contains information about their position, name, department, and much more.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihaelavalac/employee-summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihaelavalac/employee-summary/issues"
+  },
+  "homepage": "https://github.com/mihaelavalac/employee-summary#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
