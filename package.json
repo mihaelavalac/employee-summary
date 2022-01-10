@@ -21,5 +21,9 @@
   "homepage": "https://github.com/mihaelavalac/employee-summary#readme",
   "devDependencies": {
     "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0"
   }
 }
